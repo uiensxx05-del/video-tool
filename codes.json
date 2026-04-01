@@ -1,0 +1,75 @@
+[
+  {
+    "code": "VIP001",
+    "used": true,
+    "usedBy": null,
+    "usedTime": "2026/4/1 16:08:41"
+  },
+  {
+    "code": "VIP002",
+    "used": true,
+    "usedBy": null,
+    "usedTime": "2026/4/1 16:13:16"
+  },
+  {
+    "code": "VIP003",
+    "used": true,
+    "usedBy": null,
+    "usedTime": "2026/4/1 16:20:08"
+  },
+  {
+    "code": "VIP004",
+    "used": true,
+    "usedBy": null,
+    "usedTime": "2026/4/1 16:42:18",
+    "deviceId": "device_ghfmsof0rd1775032884959"
+  },
+  {
+    "code": "VIP005",
+    "used": true,
+    "usedBy": null,
+    "usedTime": "2026/4/1 16:28:19"
+  },
+  {
+    "code": "VIP006",
+    "used": false,
+    "usedBy": null,
+    "usedTime": null
+  },
+  {
+    "code": "VIP007",
+    "used": false,
+    "usedBy": null,
+    "usedTime": null
+  },
+  {
+    "code": "VIP008",
+    "used": false,
+    "usedBy": null,
+    "usedTime": null
+  },
+  {
+    "code": "VIP009",
+    "used": false,
+    "usedBy": null,
+    "usedTime": null
+  },
+  {
+    "code": "VIP010",
+    "used": false,
+    "usedBy": null,
+    "usedTime": null
+  },
+  {
+    "code": "10001",
+    "used": true,
+    "usedBy": null,
+    "usedTime": "2026/4/1 16:01:02"
+  },
+  {
+    "code": "10002",
+    "used": false,
+    "usedBy": null,
+    "usedTime": null
+  }
+]
